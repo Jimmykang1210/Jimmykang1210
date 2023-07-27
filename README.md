@@ -1,16 +1,27 @@
-### Hi there 👋
+## Hojin's Github
 
-<!--
-**Jimmykang1210/Jimmykang1210** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+안녕하세요 7년차 백앤드 개발자 강호진 입니다.
 
-Here are some ideas to get you started:
+### Tech Spec
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+### Interest
+
+- RDBMS : Oracle, MySQL
+- NoSQL : Redis, MongoDB, ElasticSearch
+- 형상관리 : GitHub & GitHub Actions & Jenkins (CD/CI)
+- 업무협업 : Jira, Slack
+- 스크립트 : jQuery, Javascript, css
+- 환경 : AWS, Docker, Linux
+
+<div align=left>
+
+-----------------------------
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:blackpearl1210@gmail.com)](mailto:blackpearl1210@gmail.com)
+
+</div>
