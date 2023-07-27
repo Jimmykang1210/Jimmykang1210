@@ -4,19 +4,18 @@
 
 ### Tech Spec
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 ### Interest
-
+- 언어 : Java, Python
 - RDBMS : Oracle, MySQL
-- NoSQL : Redis, MongoDB, ElasticSearch
-- 형상관리 : GitHub & GitHub Actions & Jenkins (CD/CI)
+- NoSQL : Redis, ElasticSearch  <!--, MongoDB-->
+- 형상관리 : GitLab, GitHub  <!--, GitHub Actions & Jenkins (CD/CI)-->
 - 업무협업 : Jira, Slack
-- 스크립트 : jQuery, Javascript, css
-- 환경 : AWS, Docker, Linux
+- 환경구성 : AWS, Docker, Linux, Nginx <!--, KAFKA -->
+- Etc : Thymeleaf, JSP, CSS, Javascript, jQuery
 
 <div align=left>
 
